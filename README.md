@@ -1,6 +1,6 @@
 # KB
 
-### Welcome to AeroBear Software Team!
+### Welcome to AeroBear Software Team Knowledge Base!
 
 ## Purpose
 
